@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ?>
-
+// test
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -20,7 +20,6 @@ ini_set('display_errors', 1);
         <ul>
             <li><a href="register.php">Buat Akun Baru</a></li>
             <li><a href="login.php">Masuk</a></li>
-            <li><a href="add_schedule.php">Tambahkan Jadwal</a></li>
         </ul>
     </nav>
 
