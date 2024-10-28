@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html>
 <head>
     <link rel="stylesheet" href="css/style.css">
-    <title>Add Schedule</title>
+    <title>Tambahakan Jadwal Penggigat</title>
 </head>
 <body>
     <h2>Add Schedule</h2>
